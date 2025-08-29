@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -e
+
+cd "$(dirname "$0")"
+
+echo ""
+echo "🚀 Setting up Python environment..."
+echo ""
+
+# Check for python3
+if ! command -v python3 &>/dev/null; then
+  echo "❌ Python 3 not found! Please install it from https://www.python.org/downloads/macos/"
+  exit 1
+fi
+
+# Create virtual environment
+if [ ! -d "venv" ]; then
+  echo "🐍 Creating virtual environment..."
+  python3 -m venv venv
+fi
+
+# Activate virtual environment
+echo "⚡ Activating virtual environment..."
+source venv/bin/activate
+
+# Ensure pip is available
+python3 -m ensurepip --upgrade
+
+# Upgrade pip + install requirements
+echo "📦 Installing packages..."
+pip install --upgrade pip
+
+if [ -f "requirements.txt" ]; then
+  pip install -r requirements.txt
+else
+  echo "⚠️ requirements.txt not found. Skipping package installation."
+fi
+
+echo ""
+echo "✅ Setup complete!"
+echo ""
+echo "To run a script, open Terminal, navigate to this folder, and type:"
+echo ""
+echo "source venv/bin/activate && python3 scripts/latest_prices.py"
+echo ""
+read -p "Press Enter to close this window..."

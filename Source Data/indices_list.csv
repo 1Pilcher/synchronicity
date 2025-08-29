@@ -1,0 +1,42 @@
+﻿Ticker,Name
+^IXIC,NASDAQ Composite
+^RUT,Russell 2000 Index
+^GSPC,S&P 500
+^DJI,Dow Jones Industrial Average
+^NYA,NYSE Composite Index
+^XAX,NYSE American Composite Index
+^BUK100P,^BUK100P
+^VIX,^VIX
+^FTSE,FTSE 100
+^GDAXI,DAX P
+^FCHI,CAC 40
+^STOXX50E,EURO STOXX 50
+^N100,^N100
+^BFX,BEL 20
+MOEX.ME,Public Joint-Stock Company Moscow Exchange MICEX-RTS
+^HSI,HANG SENG INDEX
+^STI,STI Index
+^AXJO,S&P/ASX 200
+^AORD,ALL ORDINARIES
+^BSESN,S&P BSE SENSEX
+^JKSE,IDX COMPOSITE
+^KLSE,^KLSE
+^NZ50,S&P/NZX 50 INDEX GROSS
+^KS11,KOSPI Composite Index
+^TWII,TWSE Capitalization Weighted Stock Index
+^GSPTSE,S&P/TSX Composite index
+^BVSP,IBOVESPA
+^MXX,IPC MEXICO
+^IPSA,S&P IPSA
+^MERV,MERVAL
+^TA125.TA,^TA125.TA
+^CASE30,EGX 30 Price Return Index
+^JN0U.JO,^JN0U.JO
+DX-Y.NYB,US Dollar Index
+^125904-USD-STRD,MSCI EUROPE
+^XDB,British Pound Currency Index
+^XDE,Euro Currency Index
+000001.SS,000001.SS
+^N225,Nikkei 225
+^XDN,Japanese Yen Currency Index
+^XDA,Australian Dollar Currency Index

@@ -1,0 +1,1648 @@
+﻿CIK,Ticker,Name
+,FGPMX,Franklin Gold and Precious Metals R6
+,FGADX,Franklin Gold and Precious Metals Adv
+,RYMPX,Rydex Precious Metals H
+,RYPMX,Rydex Precious Metals Inv
+,RYMNX,Rydex Precious Metals A
+,INIYX,VanEck International Investors Gold Y
+,INIIX,VanEck International Investors Gold I
+,INIVX,VanEck International Investors Gold A
+,USERX,U.S. Global Investors Gold & Precious Metals Fund
+,AGGNX,American Century Global Gold I
+,FEURX,First Eagle Gold R6
+,SGGDX,First Eagle Gold A
+,FEGIX,First Eagle Gold I
+,GRHAX,Goehring & Rozencwajg Resources Retail
+,GRHIX,Goehring & Rozencwajg Resources Instl
+,BIPIX,ProFunds Biotechnology UltraSector Fund
+,BIPSX,ProFunds Biotechnology UltraSector Fund
+,LAMGX,Lord Abbett Micro Cap Growth A
+,LCMGX,Lord Abbett Micro Cap Growth Fund
+,LFMGX,Lord Abbett Micro Cap Growth F
+,LMIYX,Lord Abbett Micro Cap Growth I
+,AVALX,Aegis Value I
+,ENPSX,ProFunds UltraSector Energy Fund
+,ENPIX,ProFunds UltraSector Energy Fund
+,BUIOX,Buffalo Early Stage Growth Instl
+,DVSMX,Driehaus Small Cap Growth Investor
+,DNSMX,Driehaus Small Cap Growth Institutional
+,FIQRX,Fidelity Advisor Global Commodity Stk Z
+,FFGIX,Fidelity Advisor Global Commodity Stk I
+,FBTIX,Fidelity Advisor Biotechnology Fund
+,FIJYX,Fidelity Advisor Biotechnology Z
+,FBTAX,Fidelity Advisor Biotechnology Fund
+,DRESX,Driehaus Emerging Markets Small Cap Growth Fund
+,MLXIX,Catalyst Energy Infrastructure I
+,HNRIX,Hennessy Energy Transition Instl
+,FANIX,Fidelity Advisor Energy I
+,HNRGX,Hennessy Energy Transition Investor
+,FNARX,Fidelity Natural Resources Fund
+,RYBIX,Rydex Basic Materials Inv
+,FSENX,Fidelity Select Energy Portfolio
+,FANAX,Fidelity Advisor Energy A
+,FIKAX,Fidelity Advisor Energy Z
+,WISGX,Segall Bryant & Hamill Small Cap GrInstl
+,FGROX,Emerald Growth Institutional
+,JOMMX,JOHCM Emerging Mkts Discovery Instl
+,JOMEX,JOHCM Emerging Mkts Discovery Advisor
+,HSPGX,Emerald Growth A
+,WTSGX,Segall Bryant & Hamill Small Cap Gr Ret
+,JAGLX,Janus Henderson Global Life Sciences T
+,JFNAX,Janus Henderson Global Life Sciences Fund
+,JFNNX,Janus Henderson Global Life Sciences Fund Class N Shares
+,JNGLX,Janus Henderson Global Life Sciences D
+,JFNIX,Janus Henderson Global Life Sciences Fund
+,JFNCX,Janus Henderson Global Life Sciences Fund
+,PSCNX,Penn Capital Special Sits Sm Cp Eq Inst
+,JFNSX,Janus Henderson Global Life Sciences Fund
+,FFGRX,Emerald Growth Investor
+,AUERX,Auer Growth
+,NEAIX,Needham Aggressive Growth Institutional
+,STSIX,American Beacon Stephens Small Cap Growth Fund
+,NEAGX,Needham Aggressive Growth Retail
+,NPSGX,Nicholas Partners Small Cap Gr Instl
+,QISGX,Federated Hermes MDT Small Cap Growth IS
+,SPWYX,American Beacon Stephens Sm Cp Gr Y
+,QASGX,Federated Hermes MDT Small Cap Growth A
+,MISMX,Matthews EM Sm Coms Instl
+,MSMLX,Matthews EM Sm Coms Inv
+,RYPNX,Royce Small-Cap Opportunity Invmt
+,QLSGX,Federated Hermes MDT Small Cap Growth R6
+,ROFIX,Royce Small-Cap Opportunity Instl
+,FEDAX,Fidelity Advisor Emerg Mkts Discv A
+,FTXFX,FullerThaler Behavioral Sm-Cp Gr R6
+,FEDDX,Fidelity Emerging Markets Discovery
+,FIQGX,Fidelity Advisor Emerg Mkts Discv Z
+,FEDIX,Fidelity Advisor Emerg Mkts Discv I
+,FTXNX,FullerThaler Behavioral Sm-Cp Gr Inv
+,FTXCX,FullerThaler Behavioral Sm-Cp Gr C
+,ANOAX,American Century Small Cap Growth A
+,WFICX,North Star Small Cap Value Institutional
+,WSCVX,North Star Small Cap Value Investor
+,KGGIX,Kopernik Global All-Cap Fund
+,FTXSX,FullerThaler Behavioral Sm-Cp GrInstl
+,KGGAX,Kopernik Global All-Cap Fund
+,VAABX,Virtus Duff & Phelps Real Asset Fund
+,FTXAX,FullerThaler Behavioral Sm-Cp Gr A
+,FPHAX,Fidelity Select Pharmaceuticals Port
+,ANOHX,American Century Small Cap Growth G
+,ANORX,American Century Small Cap Growth R
+,ANONX,American Century Small Cap Growth I
+,FEDGX,Fidelity Advisor Emerg Mkts Discv C
+,ANODX,American Century Small Cap Growth R6
+,FEDTX,Fidelity Advisor Emerg Mkts Discv M
+,ANOIX,American Century Small Cap Growth Inv
+,QSMRX,AQR Small Cap Momentum Style R6
+,TORTX,Tortoise Energy Infrastructure TR A
+,KGIIX,Kopernik International Fund
+,TORIX,Tortoise Energy Infrastructure TR Ins
+,WBSIX,William Blair Small Cap Growth I
+,WBSRX,William Blair Small Cap Growth R6
+,QISCX,Federated Hermes MDT Small Cap Core IS
+,QLSCX,Federated Hermes MDT Small Cap Core R6
+,QCSCX,Federated Hermes MDT Small Cap Core C
+,MATFX,Matthews Asia Innovators Fund
+,QASCX,Federated Hermes MDT Small Cap Core A
+,FMPFX,Nuveen Small Cap Growth Opp R6
+,FCCGX,Fidelity Small Cap Growth Fund
+,MITEX,Matthews Asia Innovators Institutional
+,ASMNX,AQR Small Cap Momentum Style N
+,ASMOX,AQR Small Cap Momentum Style I
+,ADKSX,Adirondack Small Cap
+,WBSNX,William Blair Small Cap Growth N
+,FCAGX,Fidelity Small Cap Growth Fund
+,FCPGX,Fidelity Small Cap Growth
+,FCIGX,Fidelity Advisor Small Cap Growth I
+,FIDGX,Fidelity Advisor Small Cap Growth Z
+,FCTGX,Fidelity Advisor Small Cap Growth M
+,FIMPX,Nuveen Small Cap Growth Opp I
+,FRMPX,Nuveen Small Cap Growth Opp A
+,SNOAX,Easterly Snow Long/Short Opportunity A
+,VGPMX,Vanguard Global Capital Cycles Investor
+,SNOIX,Easterly Snow Long/Short Opportunity I
+,LSCNX,Loomis Sayles Small Cap Value N
+,SNORX,Easterly Snow Capital Long/Short Opportunity Fund
+,SNOCX,Easterly Snow Long/Short Opportunity C
+,QSMNX,AQR Small Cap Multi-Style N
+,QSMLX,AQR Small Cap Multi-Style I
+,BDFFX,Baron Discovery Fund
+,QSERX,AQR Small Cap Multi-Style R6
+,TSMEX,Nuveen Quant Small/Mid Cap Eq A
+,TSMOX,Nuveen Quant Small/Mid Cap Eq Retirement
+,FHKAX,Fidelity Advisor China Region A
+,ALFOX,Lord Abbett Alpha Strategy F3
+,LSCRX,Loomis Sayles Small Cap Value Retail
+,FIQFX,Fidelity Advisor China Region Z
+,BDFIX,Baron Discovery Fund
+,FHKIX,Fidelity Advisor China Region I
+,TSMWX,Nuveen Quant Small/Mid Cap Eq R6
+,TSMNX,Nuveen Quant Small/Mid Cap Eq I
+,TSMUX,Nuveen Quant Small/Mid Cap Eq W
+,FHKCX,Fidelity China Region
+,TSMMX,Nuveen Quant Small/Mid Cap Eq Premier
+,FCHKX,Fidelity Advisor China Region C
+,JAKRX,JHancock Disciplined Value Glb L/S A
+,JAKVX,JHancock Disciplined Value Glb L/S R6
+,WPGTX,WPG Partners Small Cap Value Div Fund
+,LSVAX,Loomis Sayles Small Cap Value Admin
+,GSXIX,abrdn US Small Cap Equity Inst Svc
+,JAKUX,JHancock Disciplined Value Glb L/S I
+,LSSCX,Loomis Sayles Small Cap Value Instl
+,GNXIX,AlphaCentric Robotics and Automation I
+,GSCIX,abrdn US Small Cap Equity Inst
+,FHKTX,Fidelity Advisor China Region M
+,GIEZX,GuideStone Funds International Eq Inv
+,MOWNX,Moerus Worldwide Value N
+,GIEYX,GuideStone Funds International Eq Instl
+,MICFX,Matthews China Instl
+,MCHFX,Matthews China Fund
+,MOWIX,Moerus Worldwide Value Institutional
+,FTMKX,Fidelity Advisor Focused Em Mkts M
+,VGSCX,Virtus Duff & Phelps Glb Rl Estt Secs C
+,FSDAX,Fidelity Select Defense & Aerospace
+,GSXAX,abrdn US Small Cap Equity A
+,FAMKX,Fidelity Advisor Focused Em Mkts A
+,FZAEX,Fidelity Advisor Focused Em Mkts Z
+,FIMKX,Fidelity Advisor Focused Em Mkts I
+,CGOAX,Columbia Small Cap Growth A
+,VRGEX,Virtus Duff & Phelps Glb Rl Estt Secs R6
+,FMCKX,Fidelity Advisor Focused Em Mkts C
+,CSGYX,Columbia Small Cap Growth Inst3
+,MMMMX,Victory Integrity Discovery Member
+,VGSAX,Virtus Duff & Phelps Glb Rl Estt Secs A
+,CCRIX,Columbia Small Cap Growth Fund
+,CMSCX,Columbia Small Cap Growth Inst
+,CMSHX,Columbia Small Cap Growth S
+,CGOCX,Columbia Small Cap Growth C
+,TCMSX,Voya Small Cap Growth I
+,CSCRX,Columbia Small Cap Growth Inst2
+,DHSCX,Diamond Hill Small Cap Fund
+,FTHSX,FullerThaler Behavioral Sm-Cp Eq Inst
+,JAKTX,JHancock Disciplined Value Glb L/S C
+,HFCGX,Hennessy Cornerstone Growth Investor
+,FTHFX,FullerThaler Behavioral Sm-Cp Eq R6
+,DNDGX,Dunham Small Cap Growth Fund
+,AALRX,American Beacon Large Cap Value R6
+,DHSIX,Diamond Hill Small Cap Fund
+,DHSYX,Diamond Hill Small Cap Fund
+,HICGX,Hennessy Cornerstone Growth Inst
+,BISAX,Brandes International Small Cap Equity Fund
+,NSCCX,Nuveen Small-Cap Value Opportunities Fund
+,BISMX,Brandes International Small Cap Equity Fund
+,NSCRX,Nuveen Small-Cap Value Opportunities Fund
+,BISRX,Brandes International Small Cap Equity Fund
+,FTHAX,FullerThaler Behavioral Sm-Cp Eq A
+,FTHNX,FullerThaler Behavioral Sm-Cp Eq Inv
+,VLNPX,Voya Small Cap Growth R6
+,NSCAX,Nuveen Small-Cap Value Opportunities Fund
+,VFPIX,Private Capital Management Value Fund
+,FTYCX,FullerThaler Behavioral Sm-Cp Eq C
+,PHSZX,PGIM Jennison Health Sciences Z
+,PHLAX,PGIM Jennison Health Sciences A
+,PHLQX,PGIM Jennison Health Sciences R6
+,NSCFX,Nuveen Small-Cap Value Opportunities Fund
+,BINCX,Brandes International Small Cap Equity Fund
+,PJHRX,PGIM Jennison Health Sciences R
+,VSTCX,Vanguard Strategic Small-Cap Equity Inv
+,ARSTX,Nuveen Small Cap Select I
+,ASEFX,Nuveen Small Cap Select R6
+,TSCSX,Thrivent Small Cap Stock S
+,VCESX,Virtus KAR Emerging Markets Small-Cap Fund
+,LKSCX,LKCM Small Cap Equity Instl
+,VAESX,Virtus KAR Emerging Markets Small-Cap Fund
+,NSMRX,Nuveen Small/Mid Cap Value Fund
+,PASSX,T. Rowe Price Small-Cap Stock Adv
+,NWQFX,Nuveen Small/Mid Cap Value R6
+,AASMX,Thrivent Small Cap Stock A
+,OTCFX,T. Rowe Price Small-Cap Stock
+,OTIIX,T. Rowe Price Small-Cap Stock I
+,GLIFX,Lazard Global Listed Infrastructure Portfolio
+,TQSAX,T. Rowe Price Integrated US SMCC Eq Adv
+,TQSMX,T. Rowe Price Integrated US SMCC Eq
+,TQSIX,T. Rowe Price Integrated US SMCC Eq I
+,BIVIX,Invenomic Institutional
+,AXVIX,Acclivity Small Cap Value I
+,BIVSX,Invenomic Super Institutional
+,AXVNX,Acclivity Small Cap Value N
+,QLENX,AQR Long-Short Equity N
+,QLEIX,AQR Long-Short Equity I
+,TRSSX,T. Rowe Price Instl Small-Cap Stock
+,AATIX,Ancora/Thelen Small-Mid Cap I
+,QLERX,AQR Long-Short Equity R6
+,NSMCX,Nuveen Small/Mid Cap Value Fund
+,NSMAX,Nuveen Small/Mid Cap Value Fund
+,WSMRX,William Blair Small-Mid Cap Growth R6
+,AATSX,Ancora/Thelen Small-Mid Cap S
+,OSCNX,Invesco Main Street Small Cap R
+,FCDAX,Fidelity Stock Selector Small Cap Fund
+,IFPUX,Independent Franchise Partners US Equity
+,OSCAX,Invesco Main Street Small Cap A
+,MNSQX,Invesco Main Street Small Cap R5
+,FSSZX,Fidelity Advisor Stock Selector Sm Cp Z
+,FCDIX,Fidelity Stock Selector Small Cap Fund
+,OSCYX,Invesco Main Street Small Cap Y
+,OSSIX,Invesco Main Street Small Cap R6
+,PCAFX,Prospector Capital Appreciation
+,HNINX,Harbor International Retirement
+,FCDCX,Fidelity Stock Selector Small Cap Fund
+,WWSIX,Keeley Small Cap Fund Institutional
+,GPMCX,Grandeur Peak Global Micro Cap Instl
+,RMLPX,Recurrent MLP & Infrastructure Class I
+,SFVLX,Seafarer Overseas Value Investor
+,SIVLX,Financial Investors Trust - Seafarer Overseas Value Fund
+,WHGMX,Westwood Quality SMidCap Fund Inst
+,YFSNX,AMG Yacktman Global N
+,YFSIX,AMG Yacktman Global I
+,VIESX,Virtus KAR Emerging Markets Small-Cap I
+,VRESX,Virtus KAR Emerging Markets Small-Cap R6
+,HULEX,Huber Select Large Cap Value Instl
+,HULIX,Huber Select Large Cap Value Inv
+,FCDTX,Fidelity Stock Selector Small Cap Fund
+,TNVRX,1290 GAMCO Small/Mid Cap Value R
+,GLFOX,Lazard Global Listed Infrastructure Portfolio
+,TNVIX,1290 GAMCO Small/Mid Cap Value I
+,FBPEX,Cantor Fitzgerald Equity Div Plus Inst
+,FDSCX,Fidelity Stock Selector Small Cap
+,FEAAX,Fidelity Advisor Emerging Asia A
+,WGMCX,Wasatch Ultra Growth Institutional
+,FERIX,Fidelity Advisor Emerging Asia I
+,YAFIX,AMG Yacktman Focused I
+,FIQPX,Fidelity Advisor Emerging Asia Z
+,PGOAX,PGIM Jennison Small Company Fund
+,JASCX,James Small Cap Fund
+,VEXPX,Vanguard Explorer Fund
+,CPCEX,Counterpoint Tactical Equity C
+,SPYGX,Spyglass Growth Institutional
+,WWSAX,Keeley Small Cap Fund A
+,VEXRX,Vanguard Explorer Fund
+,FEATX,Fidelity Advisor Emerging Asia M
+,CPAEX,Counterpoint Tactical Equity A
+,WESCX,Keeley Small Cap Fund AAA
+,PSCHX,PGIM Jennison Small Company R2
+,CPIEX,Counterpoint Tactical Equity I
+,PSCJX,PGIM Jennison Small Company R4
+,PJSQX,PGIM Jennison Small Company R6
+,FSEAX,Fidelity Emerging Asia
+,FERCX,Fidelity Advisor Emerging Asia C
+,PSCZX,PGIM Jennison Small Company Z
+,FAMDX,FAM Small Cap Institutional
+,AEMVX,Acadian Emerging Markets Y
+,AEMZX,Acadian Emerging Markets I
+,AEMGX,Acadian Emerging Markets Investor
+,GEMEX,GMO Emerging Markets I
+,GEMNX,GMO Emerging Markets R6
+,THOCX,Thornburg Global Opportunities C
+,FIVFX,Fidelity International Capital Apprec
+,THORX,Thornburg Global Opportunities R3
+,THOVX,Thornburg Global Opportunities R4
+,THOAX,Thornburg Global Opportunities A
+,THOFX,Thornburg Global Opportunities R5
+,LACFX,Lord Abbett Convertible A
+,LCFSX,Lord Abbett Convertible R4
+,LBFFX,Lord Abbett Convertible F
+,LCFTX,Lord Abbett Convertible R5
+,LCFYX,Lord Abbett Convertible I
+,LAVPX,Lord Abbett Fundamental Equity P
+,RPMAX,Reinhart Genesis PMV Investor
+,LCFVX,Lord Abbett Convertible R6
+,RPMFX,Reinhart Genesis PMV Advisor
+,BRUSX,Bridgeway Ultra-Small Company
+,PAIJX,T. Rowe Price Em Mkts Discv Stk Adv
+,LAVSX,Lord Abbett Fundamental Equity R4
+,REVIX,T. Rowe Price Em Mkts Discv Stk I
+,SFVRX,Seafarer Overseas Value Retail
+,PRIJX,T. Rowe Price Em Mkts Discv Stk
+,LAVTX,Lord Abbett Fundamental Equity R5
+,LAVVX,Lord Abbett Fundamental Equity R6
+,WWSCX,Keeley Small Cap Fund C
+,TNVAX,1290 GAMCO Small/Mid Cap Value A
+,SDFSX,Sit Small Cap Dividend Growth S
+,SSCDX,Sit Small Cap Dividend Growth I
+,SMXAX,SEI Extended Market Index A (SIIT)
+,MWFEX,Metropolitan West Funds - Flexible Income Fund
+,VSEQX,Vanguard Strategic Equity Inv
+,HMEZX,NexPoint Merger Arbitrage Z
+,YAFFX,AMG Yacktman Focused N
+,MGBIX,AMG GW&K ESG Bond I
+,THOIX,Thornburg Global Opportunities I
+,THOGX,Thornburg Global Opportunities R6
+,HFSAX,Hundredfold Select Alternative Inv
+,VTAPX,Vanguard Shrt-Term Infl-Prot Sec Idx Adm
+,VTSPX,Vanguard Shrt-Term Infl-Prot Sec Idx Ins
+,FAMFX,FAM Small Cap Investor
+,LMVYX,Lord Abbett Focused Small Cap Value I
+,POPFX,Prospector Opportunity
+,CFRZX,Columbia Floating Rate Inst
+,CFRYX,Columbia Floating Rate Inst3
+,RFRFX,Columbia Floating Rate Inst2
+,FCCVX,Fidelity Convertible Securities Fund
+,FACVX,Fidelity Advisor Convertible Secs A
+,FTCVX,Fidelity Advisor Convertible Secs M
+,FIQVX,Fidelity Advisor Convertible Secs Z
+,FICVX,Fidelity Advisor Convertible Secs I
+,FCVSX,Fidelity Convertible Securities
+,PRHSX,T. Rowe Price Health Sciences
+,CMNIX,Calamos Market Neutral Income I
+,FFARX,Franklin Global Allocation R
+,JCONX,Janus Henderson Contrarian Fund
+,LIVAX,BlackRock LifePath Index 2055 Inv A
+,LIVIX,BlackRock LifePath Index 2055 Instl
+,LIVKX,BlackRock LifePath Index 2055 K
+,LIVPX,BlackRock LifePath Index 2055 Inv P
+,LPHAX,BlackRock LifePath Dyn 2045 Investor A
+,LPHIX,BlackRock LifePath Dyn 2045 Instl
+,LPHKX,BlackRock LifePath Dyn 2045 K
+,LPJKX,BlackRock LifePath Dyn 2035 K
+,LPRFX,BlackRock LifePath Dyn 2050 Investor A
+,LPRPX,BlackRock LifePath Dyn 2050 R
+,LPSFX,BlackRock LifePath Dyn 2040 K
+,LPVAX,BlackRock LifePath Dyn 2055 Investor A
+,LPVIX,BlackRock LifePath Dyn 2055 Instl
+,LPVKX,BlackRock LifePath Dyn 2055 K
+,LPVRX,BlackRock LifePath Dyn 2055 R
+,STLEX,BlackRock LifePath Dynamic 2040 Fund
+,STLFX,BlackRock LifePath Dynamic 2050 Fund
+,VWSTX,Vanguard Ultra Short-Term Tx-Ex
+,VWSUX,Vanguard Ultra Short-Term Tx-Ex Adm
+,TRZKX,T. Rowe Price International Discovery Z
+,PRIDX,T. Rowe Price International Discovery
+,LGLUX,Lord Abbett Growth Leaders Fund
+,LGLIX,Lord Abbett Growth Leaders Fund
+,LGLSX,Lord Abbett Growth Leaders Fund
+,LGLAX,Lord Abbett Growth Leaders Fund
+,DODGX,Dodge & Cox Stock Fund
+,DXQLX,Direxion Monthly NASDAQ-100 Bull 1.75X Fund
+,HWAAX,Hotchkis & Wiley Value Opps A
+,EAEAX,Eaton Vance Tax-Managed Equity Asset Allocation Fund
+,ARTIX,Artisan International Investor
+,APDIX,Artisan International Fund
+,ECEAX,Eaton Vance Tax-Managed Equity Asset Allocation Fund
+,TIBIX,Thornburg Investment Income Builder I
+,TIBMX,Thornburg Investment Income Builder R5
+,TIBOX,Thornburg Investment Income Builder R6
+,TIBGX,Thornburg Investment Income Builder R4
+,TIBAX,Thornburg Investment Income Builder A
+,TIBRX,Thornburg Investment Income Builder R3
+,TIBCX,Thornburg Investment Income Builder C
+,JACNX,Janus Henderson Contrarian D
+,JSVAX,Janus Henderson Contrarian T
+,JCNNX,Janus Henderson Contrarian Fund
+,JCNAX,Janus Henderson Contrarian Fund
+,JCNIX,Janus Henderson Contrarian Fund
+,WBVRX,William Blair Small Cap Value R6
+,LGLVX,Lord Abbett Growth Leaders Fund
+,LGLFX,Lord Abbett Growth Leaders Fund
+,JCNRX,Janus Henderson Contrarian Fund
+,PFSLX,Paradigm Select Fund
+,DGIFX,Disciplined Growth Investors
+,HWSZX,Hotchkis & Wiley Small Cap Value Z
+,HWSIX,Hotchkis & Wiley Small Cap Value I
+,HWSAX,Hotchkis & Wiley Small Cap Value A
+,GMOLX,GMO Opportunistic Income Fund
+,AMFIX,AAMA Income
+,GIFSX,Guggenheim Floating Rate Strats R6
+,TEDMX,Templeton Developing Markets A
+,TVFVX,Third Avenue Value Investor
+,TAVZX,Third Avenue Value Z
+,LCRIX,Leuthold Core Investment Institutional
+,LCORX,Leuthold Core Investment Retail
+,TDMRX,Templeton Developing Markets R
+,EVDIX,Camelot Event Driven Institutional
+,DNINX,Dunham International Stock Fund
+,FTGMX,Franklin Growth Allocation R6
+,EVDAX,Camelot Event Driven A
+,DAINX,Dunham International Stock A
+,CSSCX,Columbia Small Cap Value I C
+,SEMTX,Hartford Schroders Emerging Mkts Eq SDR
+,DCINX,Dunham International Stock C
+,DODBX,Dodge & Cox Balanced Fund
+,NFRFX,Nuveen Floating Rate Income R6
+,CPLIX,Calamos Phineus Long/Short I
+,NFRIX,Nuveen Floating Rate Income I
+,NFRAX,Nuveen Floating Rate Income A
+,CPLSX,Calamos Phineus Long/Short A
+,APHIX,Artisan International Fund
+,FFAQX,Franklin Global Allocation R6
+,TAVFX,Third Avenue Value Instl
+,DSCPX,Davenport Small Cap Focus Fund
+,FFAAX,Franklin Global Allocation Adv
+,FFALX,Franklin Global Allocation A
+,LDFOX,Lord Abbett Fundamental Equity Fund
+,MIFIX,Miller Intermediate Bond I
+,HJIRX,Hardman Johnston Intl Gr Fd Retl Shr
+,LAVYX,Lord Abbett Fundamental Equity I
+,LSVGX,LSV Global Value Institutional
+,LDFVX,Lord Abbett Fundamental Equity Fund
+,STEZX,AB International Strat Eqs Z
+,VTRRX,Voya Target Retirement 2055 R6
+,PAFGX,T. Rowe Price Global Allocation Advisor
+,LAVFX,Lord Abbett Fundamental Equity F
+,DODWX,Dodge & Cox Global Stock Fund
+,VRRKX,Voya Target Retirement 2040 R
+,CVSCX,Calamos Market Neutral Income C
+,CVSIX,Calamos Market Neutral Income A
+,HJIGX,Hardman Johnston Intl Gr Fd Instl Shr
+,FHCIX,Fidelity Advisor Health Care I
+,CVSOX,Calamos Market Neutral Income R6
+,VTRUX,Voya Target Retirement 2060 R6
+,SAUMX,SA US Small Company
+,VFMFX,Vanguard US Multifactor Admiral
+,WBVNX,William Blair Small Cap Value N
+,JMGRX,Janus Henderson Enterprise I
+,JANEX,Janus Henderson Enterprise Fund
+,NYVTX,Davis NY Venture A
+,JAENX,Janus Henderson Enterprise T
+,SSHFX,Sound Shore Investor
+,FSPHX,Fidelity Select Health Care
+,JGRCX,Janus Henderson Enterprise Fund
+,CSCZX,Columbia Small Cap Value I Inst
+,NRGEX,Neuberger Berman Genesis Fund
+,APHYX,Artisan Developing World Fund
+,JDMAX,Janus Henderson Enterprise Fund
+,APDYX,Artisan Developing World Fund
+,JDMNX,Janus Henderson Enterprise Fund
+,JGRTX,Janus Henderson Enterprise Fund
+,GIOIX,Guggenheim Macro Opportunities Instl
+,GIOPX,Guggenheim Macro Opportunities P
+,ARTYX,Artisan Developing World Investor
+,GIOAX,Guggenheim Macro Opportunities A
+,GILHX,Guggenheim Limited Duration Instl
+,GIKRX,Guggenheim Limited Duration R6
+,GILPX,Guggenheim Limited Duration P
+,GMODX,GMO Opportunistic Income Fund
+,GAAAX,GMO Opportunistic Income R6
+,FEVIX,First Eagle US I
+,FEVRX,First Eagle US R6
+,OEGIX,Invesco Discovery Mid Cap Growth R6
+,JDMRX,Janus Henderson Enterprise Fund
+,TDADX,Templeton Developing Markets Adv
+,FDEVX,Templeton Developing Markets R6
+,FEVAX,First Eagle US A
+,OEGYX,Invesco Discovery Mid Cap Growth Y
+,BGEDX,Baillie Gifford Emerging Markets Equities Fund
+,LZOEX,Lazard Emerging Markets Equity Portfolio
+,TDMTX,Templeton Developing Markets C
+,BGEHX,Baillie Gifford Emerging Markets Equities Fund
+,RLEMX,Lazard Emerging Markets Equity R6
+,LZEMX,Lazard Emerging Markets Equity Portfolio
+,CCWIX,Baird Chautauqua International Gr Instl
+,CSMIX,Columbia Small Cap Value I A
+,CUURX,Columbia Small Cap Value I Inst2
+,CCWSX,Baird Chautauqua International Gr Inv
+,FEVCX,First Eagle US C
+,CSVRX,Columbia Small Cap Value I R
+,SSHQX,State Street Hedged Intl Dev Eq Idx K
+,KMDIX,Keeley Gabelli Mid Cap Dividend I
+,CSVYX,Columbia Small Cap Value I Inst3
+,PPIPX,T. Rowe Price Spectrum Cnsrv Allc I
+,CSCQX,Columbia Small Cap Value I S
+,VIHAX,Vanguard Intl Hi Div Yld Adm
+,SSHVX,Sound Shore Institutional
+,JBALX,Janus Henderson Balanced Fund
+,JANBX,Janus Henderson Balanced Fund
+,JABAX,Janus Henderson Balanced T
+,JDBAX,Janus Henderson Balanced Fund
+,FALIX,Fidelity Advisor Large Cap I
+,FIDLX,Fidelity Advisor Large Cap Z
+,JDBRX,Janus Henderson Balanced Fund
+,TGVNX,TCW Relative Value Mid Cap N
+,DMCFX,Invesco Discovery Mid Cap Growth Fund
+,PLBBX,Plumb Balanced Investor
+,GDLFX,FundVantage Trust - Gotham Defensive Long 500 Fund
+,VASVX,Vanguard Selected Value Fund
+,HGASX,Hennessy Gas Utility Institutional
+,NWQAX,Nuveen Flexible Income A
+,FZALX,Fidelity Advisor Mega Cap Stock Z
+,DNVYX,Davis New York Venture Fund
+,FLCCX,Fidelity Advisor Large Cap C
+,VEVRX,Victory Sycamore Established Value Fund
+,VEVIX,Victory Sycamore Established Value Fund
+,VEVYX,Victory Sycamore Established Value Fund
+,FGRCX,Fidelity Advisor Mega Cap Stock C
+,FALAX,Fidelity Advisor Large Cap A
+,FALGX,Fidelity Advisor Large Cap M
+,ARINX,Archer Income
+,NCSRX,Nuveen High Yield Income R6
+,NCOIX,Nuveen High Yield Income I
+,JOPPX,Johnson Opportunity
+,FLCSX,Fidelity Large Cap Stock
+,FGIKX,Fidelity Growth & Income K
+,GOODX,GoodHaven
+,QICLX,AQR International Multi-Style I
+,QICRX,AQR International Multi-Style R6
+,VTRPX,Voya Target Retirement 2050 R6
+,VTROX,Voya Target Retirement 2050 A
+,GIOSX,Guggenheim Macro Opportunities R6
+,JABNX,Janus Henderson Balanced N
+,JABRX,Janus Henderson Balanced S
+,GILDX,Guggenheim Limited Duration A
+,STEYX,AB International Strat Eqs Adv
+,VTRJX,Voya Target Retirement 2040 A
+,TRRAX,T. Rowe Price Retirement 2010
+,JABCX,Janus Henderson Balanced C
+,STESX,Bernstein International Strat Eqs SCB
+,RPGAX,T. Rowe Price Global Allocation
+,TGAFX,T. Rowe Price Global Allocation I
+,VTRQX,Voya Target Retirement 2055 A
+,MAIPX,MAI Managed Volatility Fund
+,NPSFX,Nuveen Preferred Secs & Inc R6
+,RRTAX,T. Rowe Price Retirement 2010 R
+,NPSRX,Nuveen Preferred Secs & Inc I
+,NPSAX,Nuveen Preferred Secs & Inc A
+,CDSIX,Calvert Short Duration Income Fund
+,CDSRX,Calvert Short Duration Income R6
+,CSDAX,Calvert Short Duration Income A
+,FGRIX,Fidelity Growth & Income
+,FTSAX,FullerThaler Behvrl S-M Cor Eq A
+,HWCIX,Hotchkis & Wiley Disciplined Value I
+,TGVOX,TCW Relative Value Mid Cap I
+,VTRSX,Voya Target Retirement 2060 A
+,HWLIX,Hotchkis & Wiley Large Cap Fdml Value I
+,UPDDX,Upright Growth & Income
+,COAGX,Gator Capital L/S Fd
+,FTRIX,Fidelity Advisor Mega Cap Stock I
+,FGRTX,Fidelity Mega Cap Stock
+,OLVRX,JPMorgan Large Cap Value R4
+,FTGRX,Fidelity Advisor Mega Cap Stock M
+,FGTAX,Fidelity Advisor Mega Cap Stock A
+,OLVAX,JPMorgan Large Cap Value A
+,OFVIX,O'Shaughnessy Market Leaders Value I
+,JLVRX,JPMorgan Large Cap Value R5
+,SVFCX,Smead Value C
+,JLVZX,JPMorgan Large Cap Value R2
+,PRSIX,T. Rowe Price Spectrum Cnsrv Allc
+,HLQVX,JPMorgan Large Cap Value I
+,PORYX,North Square Multi Strategy I
+,TRGGX,Goldman Sachs Tax-Advntgd Gbl Eq R6
+,GVMCX,Government Street Opportunities
+,FPEIX,First Trust Preferred Sec & Inc I
+,BSFIX,Baron Small Cap Instl
+,SVFYX,Smead Value Y
+,EITMX,Eaton Vance Tax Managed Growth 1.1 Fund
+,AIAFX,abrdn Global Infrastructure A
+,PTAOX,Performance Trust Total Return Bd A
+,RRTBX,T. Rowe Price Retirement 2020 R
+,EITGX,Eaton Vance Tax Managed Growth 1.2 Fund
+,NWQIX,Nuveen Flexible Income I
+,ETTGX,Eaton Vance Tx-Mgd Growth 1.1 A
+,CCAZX,Columbia Strat CA Muncpl Inc Inst
+,TRPBX,T. Rowe Price Spectrum Moderate Allc Inv
+,HWLZX,Hotchkis & Wiley Large Cap Fdml Value Z
+,HWLAX,Hotchkis & Wiley Large Cap Fdml Value A
+,FPCSX,FPA Crescent Supra Institutional
+,CMNZX,Columbia Minnesota Tax-Exempt Inst
+,FPACX,FPA Crescent
+,CADOX,Columbia Minnesota Tax-Exempt Inst2
+,HWCAX,Hotchkis & Wiley Disciplined Value A
+,CNYZX,Columbia Strat New York Muncpl Inc Inst
+,CNYRX,Columbia Strat New York Muncpl Inc Inst2
+,BSCFX,Baron Small Cap Retail
+,TMSIX,Thrivent Mid Cap Stock S
+,JMEEX,JPMorgan Mid Cap Equity R5
+,JPPEX,JPMorgan Mid Cap Equity R6
+,MIOFX,Marsico International Opportunities
+,AIMOX,AQR International Momentum Style I
+,QIORX,AQR International Momentum Style R6
+,TRRHX,T. Rowe Price Retirement 2025
+,BVPIX,Baywood ValuePlus Institutional
+,PARJX,T. Rowe Price Retirement 2025 Advisor
+,GHVIX,GMO High Yield VI
+,GMOZX,GMO High Yield I
+,RRTNX,T. Rowe Price Retirement 2025 R
+,DPIIX,Destra Flaherty & Crumrine Preferred and Income Fund
+,APDDX,Artisan Global Discovery Fund
+,HNMVX,Harbor Mid Cap Value Retirement
+,PTIMX,Performance Trust Municipal Bond Instl
+,SIUPX,Guggenheim Core Bond Fund P
+,GIUSX,Guggenheim Core Bond Fund Institutional
+,GMCDX,GMO Emerging Country Debt Fund
+,TRTZX,T. Rowe Price Mid-Cap Value Z
+,GMOQX,GMO Emerging Country Debt Fund
+,SREYX,SEI Real Estate Y (SIMT)
+,TRMCX,T. Rowe Price Mid-Cap Value
+,PARAX,T. Rowe Price Retirement 2010 Advisor
+,STARX,Astor Sector Allocation I
+,TAMVX,T. Rowe Price Mid-Cap Value Adv
+,TSMPX,Nuveen Lifestyle Moderate Premier
+,FTRNX,Fidelity Trend
+,AIFRX,abrdn Global Infrastructure Instl
+,CLDIX,Calvert Core Bond I
+,CLDRX,Calvert Core Bond Income R6
+,CLDAX,Calvert Core Bond A
+,QCELX,AQR Large Cap Multi-Style I
+,QCERX,AQR Large Cap Multi-Style R6
+,ASPGX,Astor Sector Allocation A
+,JLVMX,JPMorgan Large Cap Value R6
+,MOJAX,Donoghue Forlines Momentum A
+,RRMVX,T. Rowe Price Mid-Cap Value R
+,OLVTX,JPMorgan Large Cap Value R3
+,HNDRX,Horizon Defined Risk Investor
+,FFFDX,Fidelity Freedom 2020
+,HADRX,Horizon Defined Risk Advisor
+,PJEQX,PGIM US Real Estate R6
+,FSNOX,Fidelity Freedom 2020 K
+,PJEZX,PGIM US Real Estate Z
+,RPTTX,T. Rowe Price Diversified Mid Cap Gr I
+,PJEAX,PGIM US Real Estate A
+,ACFSX,American Century Focused Dynamic Gr I
+,FNGLX,Fidelity Advisor Freedom 2060 K6
+,WFLLX,Allspring Large Cap Core Admin
+,PRDMX,T. Rowe Price Diversified Mid Cap Gr
+,JIMEX,Johnson Institutional Intermediate Bd F
+,FFFPX,Fidelity Advisor Freedom 2050 I
+,TRRBX,T. Rowe Price Retirement 2020
+,EGOIX,Allspring Large Cap Core Inst
+,EGORX,Allspring Large Cap Core R6
+,MXXIX,Marsico Midcap Growth Focus Fund
+,FEGRX,First Eagle Global R6
+,SGIIX,First Eagle Global I
+,PARBX,T. Rowe Price Retirement 2020 Advisor
+,SGENX,First Eagle Global A
+,EGOAX,Allspring Large Cap Core A
+,FCLIX,Fidelity Advisor Industrials I
+,PTIAX,Performance Trust Total Return Bd Inst
+,NOANX,Natixis Oakmark N
+,VEGBX,Vanguard Emerging Markets Bond Admiral
+,VGCAX,Vanguard Global Credit Bond Admiral
+,MRIMX,Victory Integrity Mid-Cap Value R6
+,VEIRX,Vanguard Equity Income Fund
+,MYIMX,Victory Integrity Mid-Cap Value Y
+,SLMCX,Columbia Seligman Tech & Info A
+,STMGX,American Beacon Stephens Mid-Cap Growth Fund
+,GIBIX,Guggenheim Total Return Bond Instl
+,GIBAX,Guggenheim Total Return Bond A
+,PTMQX,PGIM Quant Solutions Large-Cap Cor Eq R6
+,FGTKX,Fidelity Freedom 2030 K6
+,CCOYX,Columbia Seligman Technology and Information Fund
+,VTMFX,Vanguard Tax-Managed Balanced Adm
+,MNNYX,Victory Munder Multi-Cap Y
+,FCLTX,Fidelity Advisor Industrials M
+,FESGX,First Eagle Global C
+,SCMIX,Columbia Seligman Tech & Info Inst2
+,NECOX,Natixis Oakmark C
+,TRRCX,T. Rowe Price Retirement 2030
+,SMFYX,American Beacon Stephens Mid-Cap Gr Y
+,FIFFX,Fidelity Advisor Freedom 2040 I
+,TRRJX,T. Rowe Price Retirement 2035
+,SLVAX,Columbia Select Large Cap Value A
+,CCIFX,Columbia Seligman Technology And Info S
+,CCIZX,Columbia Seligman Tech & Info Inst
+,VEIPX,Vanguard Equity Income Fund
+,SCIRX,Columbia Seligman Tech & Info R
+,NOIEX,Northern Income Equity
+,AIONX,AQR International Momentum Style N
+,KCVIX,Knights of Columbus Large Cap Value I
+,PARCX,T. Rowe Price Retirement 2030 Advisor
+,RYMDX,Rydex Mid-Cap 1.5x Strategy H
+,FIKEX,Fidelity Advisor Industrials Z
+,FKGLX,Fidelity Advisor Freedom 2040 K6
+,RYAHX,Rydex Mid-Cap 1.5x Strategy A
+,FVIFX,Fidelity Advisor Value I
+,VCOBX,Vanguard Core Bond Fund
+,NOLCX,Northern Large Cap Core
+,DMAGX,Driehaus Global Fund
+,CSJRX,Cohen & Steers Realty Shares R
+,CSJZX,Cohen & Steers Realty Shares Z
+,FCLAX,Fidelity Advisor Industrials A
+,CSJAX,Cohen & Steers Realty Shares A
+,CSRSX,Cohen & Steers Realty Shares L
+,CSJIX,Cohen & Steers Realty Shares I
+,NEFOX,Natixis Oakmark A
+,CSJCX,Cohen & Steers Realty Shares C
+,CSRIX,Cohen & Steers Instl Realty Shares
+,CSRYX,Columbia Select Large Cap Value Inst3
+,FDEEX,Fidelity Freedom 2055
+,FNSDX,Fidelity Freedom 2055 K
+,TMPRX,Touchstone Mid Cap R6
+,FCYIX,Fidelity Select Industrials Portfolio
+,SNTKX,Steward Values Enhanced International A
+,SNTCX,Steward Values Enhanced International I
+,SLVIX,Columbia Select Large Cap Value Inst2
+,DHTYX,Diamond Hill Select Fund
+,CSVGX,Columbia Select Large Cap Value S
+,CSVZX,Columbia Select Large Cap Value Inst
+,GARIX,Gotham Absolute Return Institutional
+,TMDPX,AMG TimesSquare Mid Cap Growth N
+,DHLTX,Diamond Hill Select I
+,FMSTX,Federated Hermes MDT Large Cap Value IS
+,FFTHX,Fidelity Freedom 2035
+,FWCFX,Fidelity Advisor Worldwide C
+,QRLVX,Federated Hermes MDT Large Cap Value R
+,WBAIX,Weitz Conservative Allocation-Instl Cl
+,QRSVX,FPA Queens Road Small Cap Value Inv
+,CBFYX,Columbia Bond Inst3
+,NEOYX,Natixis Oakmark Y
+,CNDAX,Columbia Bond A
+,UMMDX,Columbia Bond Fund - S
+,UMMGX,Columbia Bond Fund
+,EPGAX,Fidelity Advisor Equity Growth Fund
+,FWTKX,Fidelity Freedom 2035 K6
+,FSLZX,Fidelity Advisor Stock Selec Mid Cp Z
+,CNFRX,Columbia Bond Inst2
+,FSANX,Fidelity Asset Manager 60%
+,JHQPX,JPMorgan Hedged Equity R5
+,NQVAX,Nuveen Multi Cap Value A
+,JHEQX,JPMorgan Hedged Equity I
+,GEQYX,GuideStone Funds Equity Index Instl
+,FNSFX,Fidelity Freedom 2060 K
+,FWTFX,Fidelity Advisor Worldwide M
+,SETAX,SEI Institutional Managed Trust Real Estate Fund
+,SHGTX,Columbia Seligman Global Tech A
+,SEIRX,SEI Real Estate I (SIMT)
+,FVLZX,Fidelity Advisor Value Z
+,JITLX,JPMorgan SmartRetirement Blend Inc R3
+,NEFJX,Natixis Vaughan Nelson Small Cap A
+,GMCFX,GMO International Equity Fund
+,NELIX,Nuveen Equity Long/Short I
+,JAMEX,Jamestown Equity Fund
+,HWACX,Hotchkis & Wiley Value Opps C
+,CSGAX,Columbia Seligman Global Technology S
+,CSGZX,Columbia Seligman Global Tech Inst
+,FSMDX,Fidelity Mid Cap Index
+,NQVRX,Nuveen Multi Cap Value I
+,FAMVX,FAM Value Investor
+,MOJOX,Donoghue Forlines Momentum I
+,GIBRX,Guggenheim Total Return Bond R6
+,GIBLX,Guggenheim Total Return Bond P
+,FHGLX,Fidelity Advisor Freedom 2035 K6
+,TSIMX,Nuveen Lifestyle Moderate R6
+,SHSAX,BlackRock Health Sciences Opps Inv A
+,ABLOX,Alger Balanced I-2
+,TSMTX,Nuveen Lifestyle Moderate Retirement
+,TSMLX,Nuveen Lifestyle Moderate A
+,BRMKX,iShares Russell Mid-Cap Index K
+,SEHAX,SEI US Equity Factor Allocation A (SIIT)
+,BRMIX,iShares Russell Mid-Cap Index Instl
+,JIJSX,JPMorgan SmartRetirement Blend Income I
+,FATHX,Fidelity Advisor Freedom 2035 Fund
+,JIYBX,JPMorgan SmartRetirement Blend Inc R6
+,FIJOX,Fidelity Advisor Freedom 2035 Z
+,PVFAX,Paradigm Value
+,JIBBX,JPMorgan SmartRetirement Blend Inc R5
+,GSKPX,Goldman Sachs Tax-Advntgd Gbl Eq P
+,JITKX,JPMorgan SmartRetirement Blend Inc R4
+,PRIGX,T. Rowe Price Glbl Val Eq Cl I
+,ILGJX,Columbia Integrated Large Cap Gr Ins 3
+,TRGVX,T. Rowe Price Glbl Val Eq
+,FEFIX,Fidelity Advisor Freedom 2030 I
+,FGDKX,Fidelity Growth Discovery K
+,SHSCX,BlackRock Health Sciences Opps Inv C
+,ILGGX,Columbia Integrated Large Cap Gr Instl
+,FDSVX,Fidelity Growth Discovery
+,FDKQX,Fidelity Advisor Freedom 2060 I
+,NELAX,Nuveen Equity Long/Short A
+,GINDX,Gotham Index Plus Institutional
+,NELCX,Nuveen Equity Long/Short C
+,FSTLX,Federated Hermes MDT Large Cap Value R6
+,FSTKX,Federated Hermes MDT Large Cap Value Svc
+,QCLVX,Federated Hermes MDT Large Cap Value C
+,FATKX,Fidelity Freedom 2020 Fund
+,FFFHX,Fidelity Freedom 2050
+,FFFEX,Fidelity Freedom 2030
+,FDGLX,Fidelity Advisor Freedom 2030 K6
+,GNNDX,Gotham Index Plus Investor
+,PARKX,T. Rowe Price Retirement 2035 Advisor
+,FSTRX,Federated Hermes MDT Large Cap Value A
+,BHSRX,BlackRock Health Sciences Opportunities Portfolio
+,FNSBX,Fidelity Freedom 2050 K
+,FSNQX,Fidelity Freedom 2030 K
+,SHSKX,BlackRock Health Sciences Opps K
+,FZTKX,Fidelity Freedom 2050 K6
+,HBLVX,Hartford Balanced Income R6
+,SHSSX,BlackRock Health Sciences Opps Instl
+,FAGCX,Fidelity Advisor Growth Opps I
+,FAGAX,Fidelity Advisor Growth Opps A
+,FZAHX,Fidelity Advisor Growth Opps Z
+,FIJNX,Fidelity Advisor Freedom 2030 Z
+,GBATX,GMO Strategic Opportunities Allc III
+,JHQRX,JPMorgan Hedged Equity R6
+,FAGOX,Fidelity Advisor Growth Opps M
+,EPGCX,Fidelity Advisor Equity Growth Fund
+,FWWFX,Fidelity Worldwide
+,ILGCX,Columbia Integrated Large Cap Gr A
+,FIJTX,Fidelity Advisor Freedom 2060 Z
+,HFCSX,Hennessy Focus Investor
+,FFFGX,Fidelity Freedom 2045
+,FFFIX,Fidelity Advisor Freedom 2045 I
+,FTVCX,FullerThaler Behav Md-Cp Val C
+,JHQAX,JPMorgan Hedged Equity A
+,TRIGX,T. Rowe Price International Value Eq
+,SIBAX,Sit Balanced
+,SBACX,Touchstone Balanced C
+,SHISX,BlackRock Health Sciences Opps Svc
+,SEBLX,Touchstone Balanced A
+,FWIFX,Fidelity Advisor Worldwide I
+,FSPCX,Fidelity Select Insurance Port
+,FIDFX,Fidelity Advisor Mid Cap Value Z
+,TQMIX,AMG TimesSquare Mid Cap Growth I
+,FMPOX,Fidelity Advisor Mid Cap Value I
+,JHQCX,JPMorgan Hedged Equity C
+,HFMDX,Hennessy Cornerstone Mid Cap 30 Inv
+,TRTIX,T. Rowe Price International Value Eq I
+,VRREX,Virtus Duff & Phelps Real Estate Secs R6
+,SIBLX,Touchstone Balanced Y
+,FAMRX,Fidelity Asset Manager 85%
+,TBARX,Touchstone Balanced R6
+,PHRAX,Virtus Duff & Phelps Real Estate Secs A
+,FACGX,Fidelity Advisor Growth Opps C
+,TRLNX,T. Rowe Price Retirement 2060 I
+,FEYIX,Fidelity Advisor Asset Manager 85% I
+,HFCIX,Hennessy Focus Institutional
+,UBVTX,Undiscovered Managers Behavioral Value Fund
+,TRRNX,T. Rowe Price Retirement 2055
+,PHRIX,Virtus Duff & Phelps Real Estate Secs I
+,GWOAX,GMO Global Developed Equity Allc III
+,FZAFX,Fidelity Advisor Equity Growth Z
+,FFEGX,Fidelity Freedom Index 2030 Instl Prem
+,CIHEX,Calamos Hedged Equity I
+,LYRIX,Lyrical U.S. Value Equity Fund
+,ISCIX,Federated Hermes Intl Small-Mid Co IS
+,CAHEX,Calamos Hedged Equity A
+,KCVSX,Knights of Columbus Large Cap Value Fund
+,ALGYX,Alger Focus Equity Y
+,VBAIX,Vanguard Balanced Index Fund
+,VBIAX,Vanguard Balanced Index Fund
+,VBINX,Vanguard Balanced Index Fund
+,VSCGX,Vanguard LifeStrategy Cnsrv Gr Inv
+,MGQSX,Morgan Stanley Inst Global Stars R6
+,MGQIX,Morgan Stanley Inst Global Stars I
+,ALAFX,Alger Focus Equity A
+,EQPGX,Fidelity Advisor Equity Growth Fund
+,UMPIX,ProFunds UltraMid Cap Fund
+,FTQGX,Fidelity Focused Stock
+,FSFOX,Fidelity Advisor Focused Stock
+,UBVCX,Undiscovered Managers Behavioral Value Fund Class C
+,FSFNX,Fidelity Advisor Focused Stock
+,FAFFX,Fidelity Advisor Freedom 2040 A
+,VSCNX,Natixis Vaughan Nelson Small Cap N
+,FIJPX,Fidelity Advisor Freedom 2040 Z
+,FSFGX,Fidelity Advisor Focused Stock
+,NEJYX,Natixis Vaughan Nelson Small Cap Y
+,GMOIX,GMO International Equity Fund
+,FSFJX,Fidelity Advisor Focused Stock
+,USBLX,Victory Growth and Tax Strategy Fund
+,WIREX,Wireless
+,UBVAX,Undiscovered Managers Behavioral Value Fund
+,UGTIX,Victory Growth and Tax Strategy Fund
+,CTFAX,Columbia Thermostat A
+,UBVFX,Undiscovered Managers Behavioral Value Fund Class R6
+,UGTAX,Victory Growth and Tax Strategy Fund
+,FSFMX,Fidelity Advisor Focused Stock
+,UBVLX,Undiscovered Managers Behavioral Value Fund
+,UMPSX,ProFunds UltraMid Cap Fund
+,VWELX,Vanguard Wellington Inv
+,JRBYX,JPMorgan SmartRetirement Blend 2030 R6
+,UBVVX,Undiscovered Managers Behavioral Value Fund
+,DFFCX,Davis Financial C
+,RPFGX,Davis Financial A
+,ISCAX,Federated Hermes Intl Small-Mid Co A
+,CQTRX,Columbia Thermostat Inst2
+,FTFFX,Fidelity Advisor Freedom 2040 M
+,UBVSX,Undiscovered Managers Behavioral Value Fund Class I
+,CYYYX,Columbia Thermostat Inst3
+,DVFYX,Davis Financial Fund
+,FZANX,Fidelity Advisor New Insights Z
+,CCHEX,Calamos Hedged Equity C
+,TRRKX,T. Rowe Price Retirement 2045
+,FCTKX,Fidelity Freedom 2055 K6
+,UBVUX,Undiscovered Managers Behavioral Value Fund
+,UBVRX,Undiscovered Managers Behavioral Value Fund Class R2
+,ALZFX,Alger Focus Equity Z
+,ALGRX,Alger Focus Equity I
+,FINSX,Fidelity Advisor New Insights I
+,COTDX,Columbia Thermostat S
+,COTZX,Columbia Thermostat Inst
+,LOGSX,Live Oak Health Sciences
+,TRLUX,T. Rowe Price Lrg Cp Va Inv
+,ALCFX,Alger Focus Equity C
+,BGVIX,Brandes Global Equity Fund
+,VWENX,Vanguard Wellington Admiral
+,TFGRX,Touchstone Mid Cap Growth R6
+,GCPAX,Gateway Equity Call Premium A
+,PWTAX,UBS US Allocation A
+,GCPNX,Gateway Equity Call Premium N
+,IFAIX,Meeder Conservative Allocation Instl
+,IFAAX,Meeder Conservative Allocation Adviser
+,FOBPX,Tributary Balanced Instl Plus
+,TRZLX,T. Rowe Price US Large-Cap Core Z
+,FSNUX,Fidelity Freedom 2035 K
+,SMTIX,JPMorgan SmartRetirement 2040 Fund
+,PGRQX,PGIM Global Real Estate R6
+,AGFIX,AB Growth I
+,FTVAX,FullerThaler Behav Md-Cp Val A
+,VSMGX,Vanguard LifeStrategy Mod Gr Inv Shrs
+,TEGAX,Touchstone Mid Cap Growth A
+,TQGIX,T. Rowe Price Integrated Global Eq I
+,FSNIX,Fidelity Advisor Asset Manager 60% I
+,FIQAX,Fidelity Advisor Asset Manager 60% Z
+,FIXIX,Fidelity Advisor Intl Small Cap I
+,TSRLX,Touchstone Large Cap Focused R6
+,FIQIX,Fidelity Advisor Intl Small Cap Z
+,SCRLX,Touchstone Large Cap Focused Instl
+,FHFIX,Fidelity Advisor Freedom 2055 I
+,TEGYX,Touchstone Mid Cap Growth Y
+,SICWX,Touchstone Large Cap Focused Y
+,SENCX,Touchstone Large Cap Focused A
+,AGRFX,AB Growth A
+,HIMDX,Hennessy Cornerstone Mid Cap 30 Instl
+,FMGIX,Frontier MFG Core Infrastructure Instl
+,TGDIX,TCW Relative Value Large Cap I
+,BGVCX,Brandes Global Equity Fund
+,FGILX,Fidelity Global Equity Income
+,FSMVX,Fidelity Mid Cap Value
+,MLMSX,Morgan Stanley Instl Global Core R6
+,TRLGX,T. Rowe Price Lrg Cp Gr I
+,AGRYX,AB Growth Advisor
+,MLMIX,Morgan Stanley Instl Global Core I
+,PWTYX,UBS US Allocation P
+,ISCCX,Federated Hermes Intl Small-Mid Co C
+,TGDVX,TCW Relative Value Large Cap N
+,FBGLX,Fidelity Advisor Freedom 2055 K6
+,CAMRX,Calvert Moderate Allocation R6
+,FNIAX,Fidelity Advisor New Insights A
+,IRSOX,Voya Target Retirement 2040 I
+,VTRKX,Voya Target Retirement 2040 R6
+,FNICX,Fidelity Advisor New Insights C
+,FOCPX,Fidelity OTC
+,QIBGX,Federated Hermes MDT Balanced IS
+,MLMAX,Morgan Stanley Instl Global Core A
+,NWALX,Nationwide BNY Mellon Dyn US Eq Inc A
+,NWAMX,Nationwide BNY Mellon Dyn US Eq Inc K
+,NWANX,Nationwide BNY Mellon Dyn US Eq Inc R6
+,QKBGX,Federated Hermes MDT Balanced R6
+,FNITX,Fidelity Advisor New Insights M
+,NWAOX,Nationwide BNY Mellon Dyn US Eq Inc I.S
+,FFSIX,Fidelity Advisor Financials I
+,NWAPX,Nationwide BNY Mellon Dyn US Eq Inc Egl
+,FIKBX,Fidelity Advisor Financials Z
+,QABGX,Federated Hermes MDT Balanced A
+,CIGEX,Calamos Global Equity I
+,ACGQX,Invesco Growth and Income R5
+,GIFFX,Invesco Growth and Income R6
+,ACGLX,Invesco Growth and Income R
+,TEBRX,Teberg
+,ACGMX,Invesco Growth and Income Y
+,VASGX,Vanguard LifeStrategy Growth Fund
+,ACGIX,Invesco Growth and Income A
+,FIPFX,Fidelity Freedom Index 2050 Investor
+,FFOPX,Fidelity Freedom Index 2050 Instl Prem
+,LIPAX,BlackRock LifePath Index 2050 Fund
+,PAIGX,T. Rowe Price International Value Eq Adv
+,FSLBX,Fidelity Select Brokerage & Inv Mgmt
+,FITHX,Fidelity Advisor Freedom 2035 I
+,FLUIX,Fidelity Advisor Stk Selec Lg Cp Val I
+,HWGAX,Hotchkis & Wiley Global Value A
+,FPBFX,Fidelity Pacific Basin
+,FSLVX,Fidelity Stk Selec Lg Cp Val
+,KTCSX,DWS Science and Technology S
+,JPYRX,JPMorgan SmartRetirement Blend 2035 R6
+,JPBRX,JPMorgan SmartRetirement Blend 2035 R5
+,SLRYX,SEI Large Cap Growth Y (SIMT)
+,JPTKX,JPMorgan SmartRetirement Blend 2035 R4
+,TEGIX,Touchstone Mid Cap Growth Inst
+,QCBGX,Federated Hermes MDT Balanced C
+,TROZX,T. Rowe Price International Value Eq Z
+,GIOTX,GMO Intl Developed Equity Allc III
+,FSCZX,Fidelity Advisor Stk Selec Lg Cp Val Z
+,FIDSX,Fidelity Select Financials Port
+,RRIGX,T. Rowe Price International Value Eq R
+,FAFDX,Fidelity Advisor Financials A
+,PRISX,T. Rowe Price Financial Services
+,FLUAX,Fidelity Advisor Stk Selec Lg Cp Val A
+,TFIFX,T. Rowe Price Financial Services I
+,JOBBX,JPMorgan SmartRetirement Blend 2040 R5
+,FBAKX,Fidelity Balanced Fund
+,FBALX,Fidelity Balanced Fund
+,FBAVX,Fidelity Puritan Trust - Advisor Balanced Fund
+,FBAOX,Fidelity Puritan Trust - Advisor Balanced Fund
+,FBAQX,Fidelity Puritan Trust - Advisor Balanced Fund
+,FBARX,Fidelity Puritan Trust - Advisor Balanced Fund
+,UGTCX,Victory Growth and Tax Strategy Fund
+,PRGSX,T. Rowe Price Global Stock
+,ATWYX,AB Tax-Managed Wealth Apprec Strat Adv
+,FITLX,Fidelity U.S. Sustainability Index
+,PGKAX,PGIM Jennison Technology A
+,MLMCX,Morgan Stanley Instl Global Core C
+,NQGIX,Nuveen Global Equity Income I
+,MBXFX,Catalyst/Millburn Hedge Strategy C-1
+,VGWAX,Vanguard Global Wellington Admiral
+,VQNPX,Vanguard Growth & Income Inv
+,BGEAX,Brandes Global Equity Fund
+,TQVAX,T. Rowe Price Integrated US LCV Eq Adv
+,TQVIX,T. Rowe Price Integrated US LCV Eq I
+,VGIAX,Vanguard Growth and Income Fund
+,LIHKX,BlackRock LifePath Index 2045 Fund
+,CAGEX,Calamos Global Equity A
+,LIHIX,BlackRock LifePath Index 2045 Fund
+,FNCMX,Fidelity Nasdaq Composite Index
+,FISMX,Fidelity International Small Cap
+,TQMVX,T. Rowe Price Integrated US LCV Eq
+,KTCAX,DWS Science and Technology A
+,AGRDX,American Century Growth R6
+,PAGSX,T. Rowe Price Global Stock Adv
+,CBLAX,Columbia Balanced A
+,CLREX,Columbia Balanced Inst2
+,TWGIX,American Century Growth Fund
+,CBALX,Columbia Balanced Inst
+,VRSAX,Voya Target Retirement 2060 I
+,FMIYX,FMI International Institutional
+,VITNX,Vanguard Instl Ttl Stk Mkt Idx I
+,VGWLX,Vanguard Global Wellington Investor
+,FFNOX,Fidelity Multi-Asset Index
+,KTCIX,DWS Science and Technology Inst
+,JLGMX,JPMorgan Large Cap Growth R6
+,GVEQX,Government Street Equity
+,OLGCX,JPMorgan Large Cap Growth C
+,MBXIX,Catalyst/Millburn Hedge Strategy I
+,JARIX,Easterly Global Real Estate Fund
+,NESNX,Natixis US Equity Opportunities N
+,CBAIX,Calvert Balanced I
+,CBARX,Calvert Balanced R6
+,AIGOX,Alger Growth & Income I-2
+,FGEAX,Fidelity Advisor Glbl Capital Apprec A
+,NESYX,Natixis US Equity Opportunities Y
+,JLGZX,JPMorgan Large Cap Growth R2
+,SMTYX,JPMorgan SmartRetirement 2040 R6
+,TRLCX,Nuveen Large Cap Value Retire
+,MBXAX,Catalyst/Millburn Hedge Strategy A
+,AGVHX,American Funds Global Insight F-3
+,OLGAX,JPMorgan Large Cap Growth A
+,JLGRX,JPMorgan Large Cap Growth R5
+,CTFDX,Columbia Thermostat C
+,FOCKX,Fidelity OTC K
+,SEEGX,JPMorgan Large Cap Growth I
+,JLGQX,JPMorgan Large Cap Growth R4
+,USAWX,Victory Sustainable World Fund
+,SMTQX,JPMorgan SmartRetirement 2040 R4
+,VITPX,Vanguard Instl Ttl Stk Mkt Idx InstlPls
+,QRVLX,FPA Queens Road Value
+,EICOX,Eaton Vance Emerg & Frntr Countrs Eq I
+,FEUIX,Fidelity Advisor Glbl Capital Apprec I
+,CBDYX,Columbia Balanced Inst3
+,CSIFX,Calvert Balanced A
+,JORNX,Janus Henderson Global Select T
+,JSLNX,Janus Henderson Global Select N
+,JANRX,Janus Henderson Global Select Fund
+,EACOX,Eaton Vance Emerging and Frontier Countries Equity Fund
+,CMAAX,Calvert Moderate Allocation A
+,TAAIX,Thrivent Aggressive Allocation S
+,NEFSX,Natixis US Equity Opportunities A
+,LIPIX,BlackRock LifePath Index 2050 Fund
+,LIPKX,BlackRock LifePath Index 2050 Fund
+,CBLRX,Columbia Balanced R
+,TRAIX,T. Rowe Price Capital Appreciation I
+,FOTHX,Fidelity Advisor OTC Fund - Cla
+,FOTJX,Fidelity Advisor OTC Fund - Cla
+,PRWCX,T. Rowe Price Capital Appreciation
+,MBXCX,Catalyst/Millburn Hedge Strategy C
+,CBABX,Columbia Balanced Fund S
+,FOTDX,Fidelity Advisor OTC Fund - Cla
+,JGIRX,JPMorgan U.S. GARP Equity Fund
+,JOBYX,JPMorgan SmartRetirement Blend 2040 R6
+,FOTEX,Fidelity Advisor OTC Fund - Cla
+,LIPPX,BlackRock LifePath Index 2050 Fund
+,PGKRX,PGIM Jennison Technology R6
+,NMIDX,Columbia Large Cap Enhanced Core S
+,FOTGX,Fidelity Advisor OTC Fund - Cla
+,PGKZX,Prudential Investment Portfolios 12 - PGIM Jennison Technology Fund
+,TAAAX,Thrivent Aggressive Allocation A
+,JPGSX,JPMorgan U.S. GARP Equity I
+,FBAUX,Fidelity Puritan Trust - Advisor Balanced Fund
+,JORRX,Janus Henderson Global Select R
+,JIGAX,JPMorgan U.S. GARP Equity A
+,ARANX,Horizon Active Risk Assist Fund
+,ARAAX,Horizon Active Risk Assist Fund
+,PACLX,T. Rowe Price Capital Appreciation Adv
+,VMMSX,Vanguard Emerg Mkts Sel Stk Inv
+,FGSIX,Federated Hermes MDT Mid Cap Growth IS
+,VWNAX,Vanguard Windsor II Admiral
+,MLNCX,Morgan Stanley Instl Glbl Concntr C
+,VWNFX,Vanguard Windsor II Inv
+,JNTLX,JPMorgan SmartRetirement Blend 2045 R4
+,NUEIX,Northern US Quality ESG I
+,WLCGX,Wilshire Large Company Growth Instl
+,DTLGX,Wilshire Large Company Growth Portfolio
+,MGLBX,Marsico Global
+,MUXYX,Victory S&P 500 Index Y
+,VPMAX,Vanguard PRIMECAP Adm
+,JGISX,JPMorgan U.S. GARP Equity Fund
+,QKACX,Federated Hermes MDT All Cap Core R6
+,VPMCX,Vanguard PRIMECAP Inv
+,LCIAX,SEI Institutional Investments Trust Large Cap Index Fund
+,CGIIX,Calamos Growth & Income I
+,CVTCX,Calamos Growth & Income C
+,FBGKX,Fidelity Blue Chip Growth Fund
+,FGSKX,Federated Hermes MDT Mid Cap Growth R6
+,ATWAX,AB Tax-Managed Wealth Apprec Strat A
+,FBGRX,Fidelity Blue Chip Growth Fund
+,QCACX,Federated Hermes MDT All Cap Core C
+,VTCIX,Vanguard Tax-Managed Capital App I
+,FBCKX,Fidelity Advisor Blue Chip Grow
+,FBCJX,Fidelity Advisor Blue Chip Grow
+,VTCLX,Vanguard Tax-Managed Capital App Adm
+,FBCCX,Fidelity Advisor Blue Chip Growth A
+,FGSAX,Federated Hermes MDT Mid Cap Growth A
+,FGSCX,Federated Hermes MDT Mid Cap Growth C
+,LPHRX,BlackRock LifePath Dyn 2045 R
+,JORCX,Janus Henderson Global Select C
+,QIACX,Federated Hermes MDT All Cap Core IS
+,EIEAX,Eaton Vance Tax-Managed Eq Aset Allc I
+,MUOSX,"Morgan Stanley Institutional Fund, Inc. - US Core Portfolio"
+,MLNSX,Morgan Stanley Instl Glbl Concntr R6
+,MUOIX,"Morgan Stanley Institutional Fund, Inc. - US Core Portfolio"
+,FBCEX,Fidelity Advisor Blue Chip Grow
+,MLNIX,Morgan Stanley Instl Glbl Concntr I
+,AVEMX,Ave Maria Value
+,FBCHX,Fidelity Advisor Blue Chip Grow
+,SPINX,SEI S&P 500 Index A (SIIT)
+,HWGIX,Hotchkis & Wiley Global Value I
+,FSPGX,Fidelity Large Cap Growth Idx
+,MUOAX,"Morgan Stanley Institutional Fund, Inc. - US Core Portfolio"
+,HAORX,Harbor International Core Retirement
+,TRLWX,Nuveen Large Cap Value W
+,MLNAX,Morgan Stanley Instl Glbl Concntr A
+,HAOSX,Harbor International Core Institutional
+,TRLIX,Nuveen Large Cap Value R6
+,NWZMX,Nationwide Loomis All Cap Gr R6
+,TRLHX,Nuveen Large Cap Value I
+,AUUIX,AB Select US Equity I
+,TRCPX,Nuveen Large Cap Value Premier
+,PSIFX,PGIM Quant Solutions Large-Cap Index Z
+,LSNGX,Loomis Sayles Global Growth N
+,HAONX,Harbor International Core Investor
+,QAACX,Federated Hermes MDT All Cap Core A
+,MECFX,NYLI Epoch Capital Growth Class I
+,ATVPX,Alger 35 Z
+,CGTUX,Columbia Global Technology Growth Inst3
+,LSGGX,Loomis Sayles Global Growth Y
+,USPRX,Victory 500 Index Fund
+,TLVIX,Thrivent Large Cap Value S
+,USSPX,Victory 500 Index Fund
+,WMLIX,Wilmington Large-Cap Strategy Instl
+,CVTRX,Calamos Growth & Income A
+,CTHCX,Columbia Global Technology Growth C
+,CTHRX,Columbia Global Technology Growth Inst2
+,CGTDX,Columbia Global Technology Growth S
+,CMTFX,Columbia Global Technology Growth Inst
+,CGIOX,Calamos Growth and Income R6
+,MECDX,NYLI Epoch Capital Growth Class A
+,DSPIX,BNY Mellon Institutional S&P 500 Stock Index Fund
+,CTCAX,Columbia Global Technology Growth A
+,FMCLX,Federated Hermes Mid-Cap Index R6
+,AAUTX,Thrivent Large Cap Value A
+,CECYX,Columbia Large Cap Enhanced Core Inst3
+,MECVX,NYLI Epoch Capital Growth Investor Class
+,FMILX,Fidelity New Millennium
+,LPREX,BlackRock LifePath Dyn 2040 Investor A
+,ICSIX,Dynamic US Opportunity I
+,ICSNX,Dynamic US Opportunity N
+,CISIX,Calvert US Large Cap Core Rspnb Idx I
+,LSAGX,Loomis Sayles Global Growth A
+,INPSX,ProFunds Internet UltraSector Svc
+,PRMTX,T. Rowe Price Comm & Tech Investor
+,MCMVX,Monongahela All Cap Value Fund
+,NOSIX,Northern Stock Index
+,CLXRX,Columbia Large Cap Index Inst2
+,SVSPX,State Street S&P 500 Index N
+,PRUIX,T. Rowe Price Equity Index 500 I
+,ACRIX,Horizon Active Risk Assist I
+,TRHZX,T. Rowe Price Equity Index 500 Z
+,VIIIX,Vanguard Institutional Index Instl Pl
+,ERASX,Eaton Vance Atlanta Capital SMID-Cap Fund
+,CLGRX,Calvert US Large Cap Growth Rspnb Idx R6
+,FXAIX,Fidelity 500 Index
+,JORIX,Janus Henderson Global Select S
+,WFSPX,iShares S&P 500 Index K
+,BSPIX,iShares S&P 500 Index Institutional
+,STFAX,State Street Equity 500 Index Fund
+,JORAX,Janus Henderson Global Select A
+,BSPAX,iShares S&P 500 Index Investor A
+,BTIEX,DWS Equity 500 Index S
+,STBIX,State Street Equity 500 Index Fund
+,SSSVX,State Street Equity 500 Index A
+,INPIX,ProFunds Internet UltraSector Inv
+,VINIX,Vanguard Institutional Index I
+,AVERX,Ave Maria Value Focused
+,BSPGX,iShares S&P 500 Index G
+,BSPSX,iShares S&P 500 Index Service
+,PJGZX,PGIM Jennison Focused Value Z
+,SSSYX,State Street Equity 500 Index K
+,JORFX,Janus Henderson Global Select I
+,SSSWX,State Street Equity 500 Index I
+,BTIIX,DWS Equity 500 Index Inst
+,BTIRX,DWS Equity 500 Index R6
+,SSPIX,SEI S&P 500 Index F (SIMT)
+,EIFGX,Eaton Vance Focused Growth Opps I
+,PJOQX,PGIM Jennison Focused Value R6
+,EISMX,Eaton Vance Atlanta Capital SMID-Cap I
+,QNTAX,Meeder Sector Rotation Adviser
+,VMGMX,Vanguard Mid-Cap Growth Index Admiral
+,PREIX,T. Rowe Price Equity Index 500
+,PWGAX,PACE International Equity A
+,VMGIX,Vanguard Mid-Cap Growth Index Investor
+,CLPYX,Columbia Large Cap Index Inst3
+,NSRKX,Northern World Selection Index K
+,LPSGX,BlackRock LifePath Dyn 2050 K
+,NSRIX,Northern World Selection Index I
+,PQSIX,PGIM Quant Solutions Large-Cap Index R6
+,PDSIX,PGIM Quant Solutions Large-Cap Index Fund
+,VHGEX,Vanguard Global Equity Inv
+,GGESX,Nationwide Global Sust Eq Instl Svc
+,GGEIX,Nationwide Global Sust Eq R6
+,MUXAX,Victory S&P 500 Index A
+,CVERX,Columbia Select Mid Cap Value Instl 2
+,BFGFX,Baron Focused Growth Fund
+,PCIEX,PACE International Equity P
+,PEOPX,BNY Mellon S&P 500 Index Fund
+,FIKHX,Fidelity Advisor Technology Z
+,NINDX,Columbia Large Cap Index Fund
+,FATIX,Fidelity Advisor Technology Fund
+,MUIGX,Nationwide BNY Mellon Dyn US Core R6
+,COFYX,Columbia Contrarian Core Inst3
+,PSIAX,PGIM Quant Solutions Large-Cap Index A
+,FADTX,Fidelity Advisor Technology A
+,ATHGX,American Century Heritage R5
+,JDESX,JPMorgan U.S. Research Enhanced Equity Fund
+,MEFOX,Meehan Focus
+,NEIAX,Columbia Large Cap Index A
+,FATEX,Fidelity Advisor Technology Fund
+,BMCKX,BlackRock Advantage Large Cap Gr K
+,FTHCX,Fidelity Advisor Technology C
+,AUUYX,AB Select US Equity Advisor
+,JDEAX,JPMorgan U.S. Research Enhanced Equity Fund
+,HHDVX,Hamlin High Dividend Equity Inv
+,PRCOX,T. Rowe Price U.S. Equity Research
+,HHDFX,Hamlin High Dividend Equity Instl
+,SMGEX,Columbia Contrarian Core S
+,SMGIX,Columbia Contrarian Core Inst
+,ACILX,American Century Heritage G
+,BSTSX,BlackRock Technology Opportunities Svc
+,FICEX,Frost Growth Equity Inst
+,PEIZX,PGIM Jennison Value Fund
+,PJVQX,PGIM Jennison Value R6
+,GCBUX,Green Century Balanced Institutional
+,BFGUX,Baron Focused Growth Fund
+,BFGIX,Baron Focused Growth Fund
+,EICIX,EIC Value Institutional
+,GGEAX,Nationwide Global Sust Eq A
+,BTEKX,BlackRock Technology Opportunities K
+,LCCAX,Columbia Contrarian Core A
+,RRCOX,T. Rowe Price U.S. Equity Research R
+,CCCRX,Columbia Contrarian Core R
+,QNTIX,Meeder Sector Rotation Institutional
+,BRIIX,Baron Real Estate Income Institutional
+,FGDMX,Fidelity Advisor Communication ServicesA
+,BRIUX,Baron Real Estate Income R6
+,FBMPX,Fidelity Select Communication Services Portfolio
+,PCUZX,T. Rowe Price U.S. Equity Research Fund
+,FTCOX,Franklin Corefolio Allocation A
+,FGJMX,Fidelity Advisor Communication ServicesI
+,NWZNX,Nationwide Loomis All Cap Gr Instl Svc
+,ATHYX,American Century Heritage Y
+,ATHDX,American Century Heritage R6
+,ATHAX,American Century Heritage A
+,BRIFX,Baron Real Estate Income Retail
+,BGSAX,BlackRock Technology Opportunities Fund
+,FGEMX,Fidelity Advisor Communication ServicesM
+,COFRX,Columbia Contrarian Core Inst2
+,FGKMX,Fidelity Advisor Communication ServicesZ
+,ATEZX,AB Sustainable Global Thematic Z
+,PCCOX,T. Rowe Price U.S. Equity Research I
+,JDEUX,JPMorgan U.S. Research Enhanced Equity Fund
+,TWHIX,American Century Heritage Fund
+,VGISX,Virtus Duff & Phelps Glb Rl Estt Secs I
+,BGSRX,BlackRock Technology Opportunities Fund
+,PACOX,T. Rowe Price U.S. Equity Research Adv
+,AULNX,American Century Ultra G
+,FSPTX,Fidelity Select Technology
+,FGHMX,Fidelity Advisor Communication ServicesC
+,OTPIX,ProFunds NASDAQ-100 Inv
+,MMDEX,Praxis Growth Index I
+,BGSIX,BlackRock Technology Opportunities Fund
+,ATHWX,American Century Heritage R
+,FSELX,Fidelity Select Semiconductors
+,QGIAX,Pear Tree Quality Institutional
+,EIERX,Eaton Vance Stock I
+,AULDX,American Century Ultra R6
+,QALGX,Federated Hermes MDT Large Cap Growth A
+,ATHIX,American Century Heritage I
+,LCGFX,William Blair Large Cap Growth I
+,NSEAX,Columbia Select Large Cap Equity S
+,RYMMX,Rydex S&P MidCap 400 Pure Value C
+,TNBIX,1290 SmartBeta Equity I
+,IESGX,Sit ESG Growth I
+,SUSSX,State Street Instl US Equity Svc
+,LCGNX,William Blair Large Cap Growth N
+,RYATX,Rydex NASDAQ-100 A
+,GURAX,NAA Risk Managed Real Estate A
+,RYHOX,Rydex NASDAQ-100 H
+,BMCAX,BlackRock Advantage Large Cap Gr Inv A
+,RYMVX,Rydex S&P MidCap 400 Pure Value A
+,TWUIX,American Century Ultra Fund
+,RYAVX,Rydex S&P MidCap 400 Pure Value H
+,JUEMX,JPMorgan US Equity R6
+,FELCX,Fidelity Advisor Semiconductors C
+,SESGX,Sit ESG Growth S
+,APHKX,Artisan International Value Fund
+,FIATX,Fidelity Advisor Intl Cap App M
+,CMVIX,BlackRock Advantage Large Cap Gr Instl
+,JMUEX,JPMorgan US Equity L
+,QCLGX,Federated Hermes MDT Large Cap Growth C
+,QILGX,Federated Hermes MDT Large Cap Growth IS
+,ARTKX,Artisan International Value Investor
+,SDLAX,SEI Dynamic Asset Allocation A (SIIT)
+,APDKX,Artisan International Value Fund
+,APHGX,Artisan Global Value Fund
+,JUEAX,JPMorgan US Equity A
+,FIKGX,Fidelity Advisor Semiconductors Z
+,ARTGX,Artisan Global Value Investor
+,FELAX,Fidelity Advisor Semiconductors A
+,NWHQX,Nationwide Bailard Tech & Sci M
+,APDGX,Artisan Global Value Fund
+,FIDZX,Fidelity Advisor Intl Cap App Z
+,FELIX,Fidelity Advisor Semiconductors I
+,FELTX,Fidelity Advisor Semiconductors M
+,FCPIX,Fidelity Advisor Intl Cap App I
+,BIERX,Brandes International Equity Fund
+,NWHTX,Nationwide Bailard Tech & Sci R6
+,JNRFX,Janus Henderson Research D
+,RYCOX,Rydex NASDAQ-100 C
+,RYOCX,Rydex NASDAQ-100 Inv
+,JRAIX,Janus Henderson Research I
+,JAMRX,Janus Henderson Research Fund
+,UCNQX,Victory Nasdaq 100 Index Fund
+,JRASX,Janus Henderson Research S
+,UINQX,Victory Nasdaq 100 Index Fund
+,URNQX,Victory Nasdaq 100 Index Fund
+,USNQX,Victory Nasdaq 100 Index Fund
+,NWHUX,Nationwide Bailard Tech & Sci Instl Svc
+,JUEZX,JPMorgan US Equity R2
+,BIIEX,Brandes International Equity Fund
+,UANQX,Victory Nasdaq 100 Index Fund
+,FCPAX,Fidelity Advisor Intl Capl App A
+,JRACX,Janus Henderson Research C
+,USBOX,Pear Tree Quality Fund
+,FTLQX,Franklin Corefolio Allocation R6
+,FCAZX,Franklin Corefolio Allocation Fund
+,JRAAX,Janus Henderson Research A
+,BIEAX,Brandes International Equity Fund
+,URITX,Victory International Fund
+,CLCRX,Columbia Select Large Cap Equity Inst2
+,JRANX,Janus Henderson Research N
+,JRARX,Janus Henderson Research R
+,GURIX,NAA Risk Managed Real Estate Inst
+,MFOCX,Marsico Focus
+,CMGYX,Columbia Select Mid Cap Gro Fd I3
+,UIIFX,Victory International Fund
+,LCGJX,William Blair Large Cap Growth R6
+,CMGVX,Columbia Select Mid Cap Gro Fd I2
+,STCAX,Virtus Silvant Large-Cap Growth Stock Fund
+,BIECX,Brandes International Equity Fund
+,FTZFX,FullerThaler Behvrll Uncnstd Eq R6
+,FTZIX,FullerThaler Behavrl Uncnstd Eq
+,FDVAX,Fidelity Advisor Diversified Intl A
+,CIDVX,Calamos Dividend Growth I
+,FCPCX,Fidelity Advisor Intl Cap App C
+,FTZAX,FullerThaler Behvrll Uncnstd Eq A
+,WGROX,Wasatch Core Growth
+,ASLDX,American Century Select Fund G Class
+,CLSDX,Columbia Select Mid Cap Gro S
+,CLSPX,Columbia Select Mid Cap Gro Fd I
+,MVIIX,Praxis Value Index I
+,WIGRX,Wasatch Core Growth Institutional
+,TRGIX,Nuveen Core Equity Retire
+,JUSRX,JPMorgan US Equity R5
+,NSEPX,Columbia Select Large Cap Equity Fund
+,FTZCX,FullerThaler Behvrll Uncnstd Eq C
+,THVRX,Thornburg International Equity R4
+,JUESX,JPMorgan US Equity I
+,JUEQX,JPMorgan US Equity R4
+,ARSIX,AMG River Road Small Cap Value I
+,BCGDX,Blue Current Global Dividend Fund
+,CBSAX,Columbia Select Mid Cap Growth Fund A
+,SNWAX,Easterly Snow Small Cap Value A
+,FIADX,Fidelity Advisor International Discv I
+,TIVRX,Thornburg International Equity R5
+,BIOPX,Baron Opportunity Fund
+,PVIVX,Paradigm Micro-Cap
+,SNWCX,Easterly Snow Small Cap Value C
+,FTMCX,First Trust Multi-Strategy Cl C
+,TIIRX,Nuveen Core Equity A
+,BIOUX,Baron Opportunity Fund
+,GQEFX,GMO Quality Fund
+,PJFZX,PGIM Jennison Growth Z
+,BPTIX,Baron Partners Institutional
+,BIOIX,Baron Opportunity Fund
+,FTADX,Fidelity Advisor International Discv M
+,CSMCX,Congress Small Cap Growth Institutional
+,GQLOX,GMO Quality VI
+,GQETX,GMO Quality Fund
+,FDVIX,Fidelity Advisor Diversified Intl I
+,BREFX,Baron Real Estate Retail
+,LGRNX,Loomis Sayles Growth Fund
+,BGLTX,Baillie Gifford Long Term Global Growth Fund
+,GQESX,GMO Quality Fund
+,BPTRX,Baron Partners Retail
+,FZABX,Fidelity Advisor Diversified Intl Z
+,GQLIX,GMO Quality I
+,LSGRX,Loomis Sayles Growth Y
+,PJFAX,PGIM Jennison Growth A
+,TRPGX,Nuveen Core Equity Premier
+,USIFX,Victory International Fund
+,CMCCX,Columbia Select Mid Cap Gro Fd C
+,CSMVX,Congress Small Cap Growth Retail
+,TGIHX,Nuveen Core Equity I
+,TGIWX,Nuveen Core Equity W
+,SNWIX,Easterly Snow Small Cap Value I
+,SNWRX,Easterly Snow Capital Small Cap Value Fund
+,FIGRX,Fidelity International Discovery
+,BREIX,Baron Real Estate Institutional
+,BREUX,Baron Real Estate R6
+,FIDKX,Fidelity International Discovery K
+,HCAIX,Harbor Capital Appreciation Inv
+,FZAIX,Fidelity Advisor International Discv Z
+,HACAX,Harbor Capital Appreciation Instl
+,PFPWX,Parnassus Value Equity Fund
+,JDCAX,Janus Henderson Forty Fund
+,FAIDX,Fidelity Advisor International Discv A
+,BDAUX,Baron Durable Advantage Fund
+,ARSVX,AMG River Road Small Cap Value N
+,HRCAX,Harbor Capital Appreciation Admin
+,PJGRX,PGIM Jennison Growth R
+,PARWX,Parnassus Value Equity Investor
+,TGVAX,Thornburg International Equity A
+,TGVRX,Thornburg International Equity R3
+,BDAFX,Baron Durable Advantage Fund
+,LGRCX,Loomis Sayles Growth Fund
+,JFRNX,Janus Henderson Forty Fund
+,CIOIX,Causeway International Opps Inst
+,TGVIX,Thornburg International Equity I
+,FSHOX,Fidelity Select Construction & Housing
+,TARKX,Tarkio
+,JCAPX,Janus Henderson Forty Fund
+,STCZX,Virtus Silvant Large-Cap Growth Stock Fund
+,JACTX,Janus Henderson Forty T
+,TGIRX,Thornburg International Equity R6
+,PBFDX,Payson Total Return
+,CIOVX,Causeway International Opps Inv
+,LGRRX,Loomis Sayles Growth Fund
+,FCPVX,Fidelity Small Cap Value Fund
+,FCVIX,Fidelity Advisor Small Cap Value I
+,MFLLX,Morgan Stanley Inst Inception R6
+,MSSGX,Morgan Stanley Inst Inception I
+,VWILX,Vanguard International Growth Adm
+,CIISX,Causeway International Small Cap Instl
+,FAOCX,Fidelity Advisor Overseas C
+,FOSKX,Fidelity Overseas K
+,BDAIX,Baron Durable Advantage Fund
+,VWIGX,Vanguard International Growth Inv
+,RYSIX,Rydex Electronics Inv
+,RYSAX,Rydex Electronics H
+,RYSCX,Rydex Electronics C
+,RYELX,Rydex Electronics A
+,FAOIX,Fidelity Advisor Overseas I
+,FCVAX,Fidelity Advisor Small Cap Value A
+,FAOSX,Fidelity Advisor Overseas Z
+,FOSFX,Fidelity Overseas
+,CLTIX,Catalyst/Lyons Tactical Allocation I
+,DIVHX,Cutler Equity Fund
+,FAERX,Fidelity Advisor Overseas M
+,AIVGX,American Funds International Vntg F-3
+,PRJZX,PGIM Jennison Global Opportunities Z
+,FSPSX,Fidelity International Index
+,BPGIX,Boston Partners Global Equity Instl
+,TIGRX,Nuveen Core Equity R6
+,FAOAX,Fidelity Advisor Overseas A
+,HCMEX,HCM Multi-Asset Plus A
+,SCIJX,Hartford Schroders International Stk SDR
+,SCIEX,Hartford Schroders International Stk I
+,TEQAX,Touchstone Non-US Equity A
+,PRJQX,PGIM Jennison Global Opportunities R6
+,FIKNX,Fidelity Advisor Small Cap Value Z
+,FTMIX,First Trust Multi-Strategy Cl I
+,FCVTX,Fidelity Advisor Small Cap Value M
+,TROCX,Touchstone Non-US Equity I
+,BTMKX,iShares MSCI EAFE Intl Idx K
+,SIVIX,State Street Instl Small-Cap Equity Inv
+,FTMAX,First Trust Multi-Strategy Cl A
+,RAIWX,Manning & Napier Rainier Intl Discv W
+,PWJAX,PGIM Jennison International Opps A
+,SCVEX,Hartford Schroders International Stk A
+,CVISX,Causeway International Small Cap Inv
+,TEQCX,Touchstone Non-US Equity C
+,MMCGX,Morgan Stanley Inst Discovery R6
+,RISAX,Manning & Napier Rainier Intl Discv S
+,TIQIX,Touchstone Non-US Equity Y
+,RYGBX,Rydex Government Long Bd 1.2x Strat Inv
+,PWJZX,PGIM Jennison International Opps Z
+,MPEGX,Morgan Stanley Inst Discovery I
+,RAIIX,Manning & Napier Rainier Intl Discv I
+,MACGX,Morgan Stanley Institutional Fund Trust Discovery Portfolio
+,PRILX,Parnassus Core Equity Institutional
+,KGLCX,Kinetics The Global Fund
+,WWWEX,Kinetics Global No Load
+,KGLAX,Kinetics The Global Fund
+,IWIRX,Guinness Atkinson Global Inntrs Inv
+,GINNX,Guinness Atkinson Global Inntrs Instl
+,LFVAX,Lord Abbett Focused Small Cap Value A
+,LFSFX,Lord Abbett Focused Small Cap Value F
+,FIGFX,Fidelity International Growth
+,RGERX,Columbia Select Global Equity Inst2
+,LMVOX,Lord Abbett Focused Small Cap Value F3
+,LMVWX,Lord Abbett Focused Small Cap Value R6
+,FIIIX,Fidelity Advisor International Growth I
+,LMVVX,Lord Abbett Focused Small Cap Value R5
+,CGEZX,Columbia Select Global Equity Inst
+,FIAGX,Fidelity Advisor International Growth A
+,RYLDX,Rydex Dow 2x Strategy A
+,UDPIX,ProFunds Ultra Dow 30 ProFund
+,RYCYX,Rydex Dow 2x Strategy C
+,RYCVX,Rydex Dow 2x Strategy H
+,RCMPX,Lazard International Quality Gr R6
+,BRSVX,Bridgeway Small-Cap Value
+,MIEIX,MFS International Equity R6
+,TGUNX,"TCW Funds, Inc. - TCW New America Premier Equities Fund"
+,CLIFX,Clifford Capital Partners Institutional
+,LGMNX,Loomis Sayles Global Allocation Fund
+,LSWWX,Loomis Sayles Global Allocation Y
+,IGLGX,Columbia Select Global Equity A
+,BCSFX,Brown Capital Management International Small Company Fund
+,LGMAX,Loomis Sayles Global Allocation Fund
+,LFVCX,Lord Abbett Focused Small Cap Value C
+,LDVAX,AXS FTSE Vntr Cptl RetTrckr A
+,FZAJX,Fidelity Advisor International Growth Z
+,BCSVX,Brown Capital Management International Small Company Fund
+,FIUIX,Fidelity Telecom and Utilities
+,FOPAX,Fidelity Advisor Intl Sm Cap Opps A
+,LDVIX,AXS FTSE Vntr Cptl RetTrckr I
+,FUGAX,Fidelity Advisor Utilities A
+,FIKIX,Fidelity Advisor Utilities Z
+,FSUTX,Fidelity Select Utilities
+,FSCOX,Fidelity International Small Cap Opp
+,FOPIX,Fidelity Advisor Intl Sm Cap Opps I
+,FAUFX,Fidelity Advisor Utilities Fund
+,FIQJX,Fidelity Advisor Intl Sm Cap Opps Z
+,FUGIX,Fidelity Advisor Utilities I
+,FUGCX,Fidelity Advisor Utilities C
+,BUIIX,Buffalo International Institutional
+,BUFIX,Buffalo International
+,CIVIX,Causeway International Value Instl
+,CIVVX,Causeway International Value Inv
+,FOPCX,Fidelity Advisor Intl Sm Cap Opps C
+,FOPTX,Fidelity Advisor Intl Sm Cap Opps M
+,ABIZX,AMG River Road Mid Cap Value Z
+,TAREX,Third Avenue Real Estate Value Instl
+,TARZX,Third Avenue Real Estate Value Z
+,CHTTX,AMG River Road Mid Cap Value N
+,ABMIX,AMG River Road Mid Cap Value I
+,TVRVX,Third Avenue Real Estate Value Fund
+,BREKX,BlackRock ETF Trust - BlackRock International Dividend ETF
+,KSCYX,Kinetics Small Cap Opportunities Inst
+,KSOAX,Kinetics Small Cap Opportunities Adv A
+,PKSFX,Virtus KAR Small-Cap Core I
+,KSCOX,Kinetics Small Cap Opportunities No Load
+,KSOCX,Kinetics Small Cap Opportunities Adv C
+,PKSAX,Virtus KAR Small-Cap Core A
+,VSCRX,Virtus KAR Small-Cap Core R6
+,RYVYX,Rydex NASDAQ-100 2x Strategy H
+,RYVLX,Rydex NASDAQ-100 2x Strategy A
+,RYCCX,Rydex NASDAQ-100 2x Strategy C
+,UOPIX,ProFunds UltraNASDAQ-100 Fund
+,UOPSX,ProFunds UltraNASDAQ-100 Fund
+,PKSCX,Virtus KAR Small-Cap Core C
+,CYPIX,ProFunds Consumer Disctnry Ultra Sec Inv
+,CYPSX,ProFunds Consumer Disctnry Ultra Sec Svc
+,QSTFX,Quantified STF Investor
+,FCICX,NYLI PineStone International Equity Cl C
+,HJSIX,Hennessy Japan Small Cap Institutional
+,FCIHX,NYLI PineStone International Equity Cl P
+,FCIKX,NYLI PineStone International Eq Inv Cl
+,JAGTX,Janus Henderson Glb Tech and Innovt T
+,JATSX,Janus Henderson Global Technology and Innovation Fund
+,JATAX,Janus Henderson Global Technology and Innovation Fund
+,JATNX,Janus Henderson Global Technology and Innovation Fund
+,JATIX,Janus Henderson Global Technology and Innovation Fund
+,JNGTX,Janus Henderson Glb Tech and Innovt D
+,JAGCX,Janus Henderson Glb Tech and Innovt C
+,KMKYX,Kinetics Market Opportunities Inst
+,KMKAX,Kinetics Market Opportunities Adv A
+,KMKNX,Kinetics Market Opportunities No Load
+,KMKCX,Kinetics Market Opportunities Adv C
+,FJPNX,Fidelity Japan
+,FJPIX,Fidelity Advisor Japan I
+,LSHAX,Kinetics Spin-Off and Corp Rest Adv A
+,LSHCX,Kinetics Spin-Off and Corp Rest Adv C
+,LSHUX,Kinetics Spin-Off and Corp Rest Instl
+,LSHEX,Kinetics Spin-Off and Corp Rest No Load
+,CNPIX,Consumer Staples UltraSector ProFund Inv
+,CNPSX,Consumer Staples UltraSector ProFund Svc
+,KNPCX,Kinetics Paradigm Adv C
+,KNPYX,Kinetics Paradigm Instl
+,KNPAX,Kinetics Paradigm Adv A
+,WWNPX,Kinetics Paradigm No Load
+,FSMEX,Fidelity Select Medical Tech and Devcs
+,KINAX,Kinetics Internet Adv A
+,KINCX,Kinetics Internet Adv C
+,WWWFX,Kinetics Internet No Load
+,FGIOX,Fidelity Advisor Series I - Fidelity Advisor Growth & Income Fund
+,FGIZX,Fidelity Advisor Series I - Fidelity Advisor Growth & Income Fund

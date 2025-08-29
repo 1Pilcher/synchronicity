@@ -1,0 +1,6 @@
+Command: chmod +x ~/Desktop/Market/setup.command
+
+- Mac users only:
+- Rename "setup.command.txt" to "setup.command".
+- In Terminal, run the command found in line 1 (filepath might be different, if so redirect to correct path).
+- Double click "setup.command" after ensuring it is saved as "setup.command".
