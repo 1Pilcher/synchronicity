@@ -10,7 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ScreenerSetup/Miniconda3/Lib/site-packages/win32/lib" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.13 virtualenv at C:\Users\jpilc\OneDrive - Louisiana State University\Desktop\Screener\ScreenerSetup\Python\venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 virtualenv at C:\Users\jpilc\OneDrive - Louisiana State University\Desktop\synchronicity\ScreenerSetup\Python\venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

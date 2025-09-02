@@ -181,6 +181,11 @@ def update_latest_prices():
 
     updated = existing.set_index("Ticker")
 
+
+    # Ensure uniqueness (keep the last occurrence if duplicates exist)
+    updated = updated[~updated.index.duplicated(keep='last')]
+
+
     for _, row in new_data.iterrows():
         ticker = row["Ticker"]
         new_time = row["Timestamp"]

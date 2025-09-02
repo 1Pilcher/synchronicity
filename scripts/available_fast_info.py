@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 
-ticker = ('CBRL')
+ticker = ('btc-usd')
 t = yf.Ticker(ticker)
 fast_info = t.fast_info
 #fast_info = t.fast_info.previous_close
