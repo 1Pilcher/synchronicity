@@ -164,9 +164,9 @@ def update_latest_prices():
         print("No filtered tickers found.")
         return
 
-    if len(filtered) > 500:
+    if len(filtered) > 501:
         print(f"Too many tickers ({len(filtered)}). Trimming to amount.")
-        filtered = filtered[:500]
+        filtered = filtered[:501]
 
     new_data = fetch_prices_multithreaded(filtered)
 
